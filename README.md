@@ -1,6 +1,6 @@
 # Hello World !
 
-I'm Florent, a :flag-fr:french guy who live in :flag-be:Belgium.
+I'm Florent, a :fr:french guy who live in :be:Belgium.
 I work for a social center, but I'm also a blogger, a maker and a developer.
 
 
